@@ -1,7 +1,7 @@
 # Clustering
 
 # Applications:
-1. User Segmentation
+**1. User Segmentation**
    
 I apply Clustering - K-means, K-means++ method for user segmentation with dataset source is from Kaggle: https://www.kaggle.com/datasets/amisha0528/mall-customers-dataset/data
 
